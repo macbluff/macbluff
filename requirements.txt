@@ -1,6 +1,6 @@
-psycopg2-binary
+#psycopg2-binary
 sqlalchemy
-psycopg2<=2.8
+#psycopg2<=2.8
 pymysql
 pymssql<3.0
 cx_Oracle<=7.3.0
